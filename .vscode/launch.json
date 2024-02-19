@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GFG-POTD/GFG-POTD",
-      "program": "d:/GFG-POTD/GFG-POTD/build/Debug/outDebug",
+      "cwd": "d:/GFG-POTD/GFG-POTD/2024/2.Feb",
+      "program": "d:/GFG-POTD/GFG-POTD/2024/2.Feb/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
